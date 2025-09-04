@@ -9,16 +9,7 @@ El dashboard permite explorar la localización geográfica de cada estadio en un
 - Capacidad  
 - Tipo de estadio (abierto, techado, retráctil)  
 
-## 🗂️ Dataset
-Se construyó un dataset base en **CSV** con los siguientes campos:
-- Equipo  
-- Estadio  
-- Ciudad  
-- Estado  
-- Latitud  
-- Longitud  
-- Capacidad  
-- Tipo de estadio  
+
 
 Archivo: [`nfl_estadios.csv`](nfl_estadios.csv)
 
