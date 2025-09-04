@@ -11,7 +11,8 @@ El dashboard permite explorar la localización geográfica de cada estadio en un
 
 
 
-Archivo: [`nfl_estadios.csv`](nfl_estadios.csv)
+## Archivo
+[Mapa de estadios NFL]https://github.com/Sickybu/NFL_Stadiums_Visualizer/blob/main/Mapa%20de%20estadios%20NFL.pbix
 
 ## ⚙️ Herramientas utilizadas
 - **Power BI** → creación del dashboard y visualizaciones interactivas  
